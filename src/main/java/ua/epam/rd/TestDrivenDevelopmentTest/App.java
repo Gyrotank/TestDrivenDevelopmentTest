@@ -20,7 +20,7 @@ public class App
 		
 		for (double d : input) {
 			if (d < -273.0) throw (new IllegalArgumentException());
-			if ((Math.abs(d) - 0.0) <= Math.abs(result)) {
+			if ((Math.abs(d)) <= Math.abs(result)) {
 				if (Math.abs(d) == Math.abs(result)) {
 					result = Math.max(d, result);
 				} else {

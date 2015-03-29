@@ -1,11 +1,9 @@
 package ua.epam.rd.TestDrivenDevelopmentTest;
 
-import static org.junit.Assert.assertEquals;
-
-import org.junit.Assert.*;
+import static org.junit.Assert.*;
 import org.junit.Test;
 
-import junit.framework.TestCase;
+//import junit.framework.TestCase;
 
 /**
  * Unit test for simple App.
